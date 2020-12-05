@@ -8,8 +8,7 @@ README.md
 
 # Contexto
 
-Este programa fué hecho en C++ con el propósito de poder visualizar las cuentas de los jugadores de la región de NA y de EU. Además de permitirnos agregar fondos a la cuenta del jugador y verificar cuanto dinero hay dentro de la cuenta. 
-Igualmente se despliegan los jugadores en dos grupos: Profesional o Promedio.
+Este programa fue hecho en C++ con el propósito de poder visualizar las cuentas de los jugadores de la región de NA y de EU; además, permite agregar fondos a la cuenta del jugador y verificar cuánto dinero hay dentro de la cuenta. Adicionalmente, se despliegan los jugadores en dos grupos: Profesional o Promedio.
 
 # Funcionalidad
 
