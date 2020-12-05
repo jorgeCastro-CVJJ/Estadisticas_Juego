@@ -17,8 +17,11 @@ Permite al usuario revisar las estadíticas de un jugador dentro del juego sin t
 
 # Consideraciones
 
-El sistema solo podrá ser ejecutado en la consola (shell). El sistema es compatible con todos los SO.
+El sistema solo podrá ser ejecutado en la consola (shell).
+El sistema es compatible con todos los SO.
 
 > Compilar: "g++ main.cpp"
+
 > Ejecutar (linux/macOS): "/a.out"
+
 > Ejecutar (Windows): "a.exe"
